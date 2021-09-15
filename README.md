@@ -6,3 +6,10 @@ If you are lazy to build, you can download the EXE = https://github.com/GroophyL
 If you are lazy to build, you can download the EXE of Main = https://github.com/GuckTubeYT/GTDialog/releases
 # Discord
 Join GuckTube's Discord Group = https://bit.ly/guckproject
+
+# Images
+<img alt="Jetbrains CLion + RustExtension" width="300px" src="https://github.com/GroophyLifefor/GTDialog/blob/main/Media/main.PNG"/>
+
+<img alt="Jetbrains CLion + RustExtension" width="300px" src="https://github.com/GroophyLifefor/GTDialog/blob/main/Media/2see.PNG"/>
+
+<img alt="Jetbrains CLion + RustExtension" width="300px" src="https://github.com/GroophyLifefor/GTDialog/blob/main/Media/beta_xd.PNG"/>
