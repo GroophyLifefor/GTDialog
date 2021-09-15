@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Created by SharpDevelop.
  * User: GuckTube YT
  * Date: 11/07/2021
@@ -68,9 +68,17 @@ namespace GTDialog
 		{
 			DialogResult dresult = MessageBox.Show("Do you want to Save this File?", "GTDialog", MessageBoxButtons.YesNoCancel);
 			if (dresult == DialogResult.Yes) File.WriteAllText("dialog.txt", richTextBox1.Text);
-			else if (dresult == DialogResult.No) Environment.Exit(0);
+			else if (dresult == DialogResult.No) Environment.Exit(0); //FAK YU EXIT(groophy)
 			else if (dresult == DialogResult.Cancel) e.Cancel = true;
 			else e.Cancel = true;
 		}
+
+        
+
+        private void Check_Click(object sender, EventArgs e)
+        {
+            _2see see = new _2see(richTextBox1.Text.Replace(@"\n", "add_spacer|small|"));
+            see.Show();
+        }
 	}
 }
