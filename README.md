@@ -8,8 +8,11 @@ If you are lazy to build, you can download the EXE of Main = https://github.com/
 Join GuckTube's Discord Group = https://bit.ly/guckproject
 
 # Images
-<img alt="Jetbrains CLion + RustExtension" width="300px" src="https://github.com/GroophyLifefor/GTDialog/blob/main/Media/main.PNG"/>
+Sorry for bad quality when yo click image will be better
 
-<img alt="Jetbrains CLion + RustExtension" width="300px" src="https://github.com/GroophyLifefor/GTDialog/blob/main/Media/2see.PNG"/>
 
-<img alt="Jetbrains CLion + RustExtension" width="300px" src="https://github.com/GroophyLifefor/GTDialog/blob/main/Media/beta_xd.PNG"/>
+<img alt="Jetbrains CLion + RustExtension" width="900px" src="https://github.com/GroophyLifefor/GTDialog/blob/main/Media/main.PNG"/>
+
+<img alt="Jetbrains CLion + RustExtension" width="900px" src="https://github.com/GroophyLifefor/GTDialog/blob/main/Media/2see.PNG"/>
+
+<img alt="Jetbrains CLion + RustExtension" width="900px" src="https://github.com/GroophyLifefor/GTDialog/blob/main/Media/beta_xd.PNG"/>
